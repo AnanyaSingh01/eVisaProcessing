@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>E-VISA</title>
 </head>
 <body style="background-color:skyblue; align-items:center; height: 433px;">
     <form id="form1" runat="server">
